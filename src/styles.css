@@ -106,4 +106,7 @@ p {
   .app-header {
     margin-top: 15px;
   }
+  .contact-email {
+    font-size: 20px;
+  }
 }
